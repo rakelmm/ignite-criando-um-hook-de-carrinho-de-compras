@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Para clonar o repositório 
-$ git clone https://github.com/rakelmm/dtmoney.git
+$ git clone https://github.com/rakelmm/ignite-criando-um-hook-de-carrinho-de-compras.git
 
 ```
 
